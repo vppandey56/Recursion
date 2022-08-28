@@ -13,12 +13,12 @@ void print(int n){
         return;
         
     }
-    cout<<n<<" ";
+    
     
     //Recursion call
     print(n-1);
 
-	cout<<n<<" ";
+    cout<<n<<" ";
 }
 
 int main(){
