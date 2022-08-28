@@ -18,7 +18,7 @@ void print(int n){
     //Recursion call
     print(n-1);
 
-	cout<<n<<" ";
+    cout<<n<<" ";
 }
 
 int main(){
